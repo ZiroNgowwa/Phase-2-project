@@ -2,20 +2,18 @@
 By Ziro Ngowwa
 
 ### DESCRIPTION
+This is a simple Task Manager that makes it easy for you to keep track of all Tasks and To Dos.Task Manager allows you to efficiently manage your tasks.  Its slick and intuitive design allows you to focus on your tasks not on the design.This Task Manager application allows you to stay productive in your everyday life.
 
-
-
-
+### HOW TO RUN THIS APP
+Clone or download the repository,
 
 In the project directory, you can run:
 
+### `npm install`
+Which downloads a package and it's dependencies.
 ### `npm start`
-
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 ### TECHNOLOGIES USED
 - HTML - Is used to build the structure of the pages.
