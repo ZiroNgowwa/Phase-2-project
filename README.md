@@ -1,6 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TASK MANAGER
+By Ziro Ngowwa
 
-## Available Scripts
+### DESCRIPTION
+
+
+
+
 
 In the project directory, you can run:
 
@@ -12,13 +17,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm run build`
+### TECHNOLOGIES USED
+- HTML - Is used to build the structure of the pages.
+- CSS - Is used to style the pages.
+- Reactjs - Is used to build the reactivity of the page and functionality.
+- JavaScript - Functionality of the website includes, click events and search.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### BUGS
+The webpage has no known bugs so far. If you come across any you are free to email us on joseph.ngowwa@student.moringaschool.com
 
+### LICENCE
+https://opensource.org/licenses/MIT.
+
+Find the license in the link above.
